@@ -1,0 +1,16 @@
+@charset "UTF-8";
+html, body {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  font-family: "微軟正黑體";
+  overflow: hidden;
+}
+
+#mycanvas {
+  max-width: 100%;
+  min-height: 100%;
+}
